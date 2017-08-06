@@ -45,9 +45,11 @@ function counter_number() {
 function stickyHeader() {
     var window_top = $(window).scrollTop();
     var div_top = $('#sticky-anchor').offset().top;
+    var h = $('.menu').height();
+    var heighPx = h + 'px';
     if (window_top > div_top) {
         $('.stricky').addClass('stricky-fixed');
-        $('#to-mg').css({ 'margin-top': '75px' });
+        $('#to-mg').css({ 'margin-top': heighPx });
     } else {
         $('.stricky').removeClass('stricky-fixed');
         $('#to-mg').css({ 'margin-top': '0px' });
