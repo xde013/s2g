@@ -1,0 +1,166 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 18/10/2016 22:12
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 0px;
+}
+
+.flaticon-add-song:before { content: "\f100"; }
+.flaticon-arrow-up:before { content: "\f101"; }
+.flaticon-avatar:before { content: "\f102"; }
+.flaticon-black-male-user-symbol:before { content: "\f103"; }
+.flaticon-buildings:before { content: "\f104"; }
+.flaticon-calendar-small-page:before { content: "\f105"; }
+.flaticon-calendar-with-spring-binder-and-date-blocks:before { content: "\f106"; }
+.flaticon-call-answer:before { content: "\f107"; }
+.flaticon-clock:before { content: "\f108"; }
+.flaticon-clock-1:before { content: "\f109"; }
+.flaticon-contract:before { content: "\f10a"; }
+.flaticon-credit-card-band-and-number:before { content: "\f10b"; }
+.flaticon-dentist:before { content: "\f10c"; }
+.flaticon-e-mail-envelope:before { content: "\f10d"; }
+.flaticon-earth-grid:before { content: "\f10e"; }
+.flaticon-email-envelope-back-symbol-on-phone-screen:before { content: "\f10f"; }
+.flaticon-engineer:before { content: "\f110"; }
+.flaticon-facebook-placeholder-for-locate-places-on-maps:before { content: "\f111"; }
+.flaticon-folder:before { content: "\f112"; }
+.flaticon-gasoline:before { content: "\f113"; }
+.flaticon-global:before { content: "\f114"; }
+.flaticon-interface:before { content: "\f115"; }
+.flaticon-interface-1:before { content: "\f116"; }
+.flaticon-interface-2:before { content: "\f117"; }
+.flaticon-interface-3:before { content: "\f118"; }
+.flaticon-justice:before { content: "\f119"; }
+.flaticon-left:before { content: "\f11a"; }
+.flaticon-medal:before { content: "\f11b"; }
+.flaticon-nature:before { content: "\f11c"; }
+.flaticon-nature-1:before { content: "\f11d"; }
+.flaticon-padlock:before { content: "\f11e"; }
+.flaticon-pdf:before { content: "\f11f"; }
+.flaticon-people:before { content: "\f120"; }
+.flaticon-remove:before { content: "\f121"; }
+.flaticon-round-clock:before { content: "\f122"; }
+.flaticon-science:before { content: "\f123"; }
+.flaticon-sign:before { content: "\f124"; }
+.flaticon-signs:before { content: "\f125"; }
+.flaticon-star:before { content: "\f126"; }
+.flaticon-star-1:before { content: "\f127"; }
+.flaticon-technology:before { content: "\f128"; }
+.flaticon-technology-1:before { content: "\f129"; }
+.flaticon-technology-2:before { content: "\f12a"; }
+.flaticon-tool:before { content: "\f12b"; }
+.flaticon-tool-1:before { content: "\f12c"; }
+.flaticon-word:before { content: "\f12d"; }
+
+.flaticon-flash:before { content: "\f100"; }
+.flaticon-wrench:before { content: "\f101"; }
+
+@font-face {
+  font-family: "Flaticon1";
+  src: url("./Flaticon-1.eot");
+  src: url("./Flaticon-1.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon-1.woff") format("woff"),
+       url("./Flaticon-1.ttf") format("truetype"),
+       url("./Flaticon-1.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon1";
+    src: url("./Flaticon-1.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon1-"]:before, [class*=" flaticon1-"]:before,
+[class^="flaticon1-"]:after, [class*=" flaticon1-"]:after {   
+  font-family: Flaticon1;
+        font-size: 20px;
+font-style: normal;
+margin-left: 0px;
+}
+
+.flaticon1-add:before { content: "\f100"; }
+.flaticon1-badge-with-a-star:before { content: "\f101"; }
+.flaticon1-chain-links:before { content: "\f102"; }
+.flaticon1-clock:before { content: "\f103"; }
+.flaticon1-construction-worker:before { content: "\f104"; }
+.flaticon1-hexagon-geometrical-shape-outline:before { content: "\f105"; }
+.flaticon1-left-quote:before { content: "\f106"; }
+.flaticon1-phone-call:before { content: "\f107"; }
+.flaticon1-placeholder:before { content: "\f108"; }
+.flaticon1-plus:before { content: "\f109"; }
+.flaticon1-right-quote:before { content: "\f10a"; }
+.flaticon1-search:before { content: "\f10b"; }
+.flaticon1-share:before { content: "\f10c"; }
+.flaticon1-tool:before { content: "\f10d"; }
+
+@font-face {
+  font-family: "Flaticon2";
+  src: url("./Flaticon-2.eot");
+  src: url("./Flaticon-2.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon-2.woff") format("woff"),
+       url("./Flaticon-2.ttf") format("truetype"),
+       url("./Flaticon-2.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon2";
+    src: url("./Flaticon-2.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon2-"]:before, [class*=" flaticon2-"]:before,
+[class^="flaticon2-"]:after, [class*=" flaticon2-"]:after {   
+  font-family: Flaticon2;
+        font-size: 20px;
+font-style: normal;
+margin-left: 0px;
+}
+
+.flaticon2-magnet:before { content: "\f100"; }
+.flaticon2-technology-1:before { content: "\f101"; }
+.flaticon2-power:before { content: "\f102"; }
+.flaticon2-scanner:before { content: "\f103"; }
+.flaticon2-light-bulb:before { content: "\f104"; }
+.flaticon2-graphic:before { content: "\f105"; }
+.flaticon2-exam:before { content: "\f106"; }
+.flaticon2-search-engine:before { content: "\f107"; }
+.flaticon2-robotic-arm:before { content: "\f108"; }
+.flaticon2-cogwheel:before { content: "\f109"; }
+.flaticon2-landscape:before { content: "\f10a"; }
+.flaticon2-marketing:before { content: "\f10b"; }
+.flaticon2-technology:before { content: "\f10c"; }
+.flaticon2-weld:before { content: "\f10d"; }
+.flaticon2-money:before { content: "\f10e"; }
+.flaticon2-welder:before { content: "\f10f"; }
+.flaticon2-time:before { content: "\f110"; }
+.flaticon2-training:before { content: "\f111"; }
