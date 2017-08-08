@@ -1060,9 +1060,9 @@
     margin-right: 0;
   }
 
-  .values {
+.values {
     padding-right: 0;
-    padding-bottom: 0;
+    padding-bottom: 40px;
     padding-top: 40px;
   }
 
@@ -1070,12 +1070,16 @@
     text-align: center;
   }
 
-  .values .fs-title {
+  .values .fv-title {
     font-size: 27px;
   }
 
+  .fv-title:last-of-type {
+    margin-bottom: 5%;
+  }
+
   .values .button-wraper {
-    margin-bottom: 10%;
+    margin-bottom: 5%;
   }
 
   .fs-title:last-of-type {
@@ -1087,49 +1091,46 @@
     margin-top: 30px;
   }
 
-  .values .sf-icon-area {
+  .values .sv-icon-area {
     height: 0;
     text-align: left;
   }
 
-  .values .single-fact .sf-icon:before {
+  .values .single-value .sv-icon:before {
     font-size: 40px;
     padding-left: 7%;
   }
 
-  .sf-icon-area span:after {
+  .sv-icon-area span:after {
     font-size: 80px;
   }
 
-  .fact-heading,  .fact-title {
+  .value-heading, .value-title {
     text-align: right;
   }
   .sv-icon-area {
     height: 80px;
   }
 
-  .single-fact span {
+  .single-value span {
     padding-top: 9%;
   }
 
-  .single-fact {
-    padding-left: 10%;
-    padding-right: 10%;
+  .single-value {
+    padding-left: 5%;
+    padding-right: 5%;
   }
 
-  .sf-icon-area {
+  .sv-icon-area {
     margin-top: 20px;
   }
 
-  .fact-heading {
+  .value-heading {
     font-size: 25px;
   }
 
-  .fact-title {
-    font-size: 15px;
-  }
   .value-title {
-    margin-bottom: 25px;
+    font-size: 15px;
   }
   .technology img {
     display: none;
