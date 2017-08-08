@@ -659,66 +659,20 @@
     Slider
 =============================================
 ***/
-
-  #main-carousel .carousel-inner .item {
-    background-position: center top;
-    background-repeat: no-repeat;
-    background-size: 450px;
-    min-height: 520px;
+  .carousel-caption .thm-container .box.valign-top {
+     vertical-align: middle
   }
-
-  #main-carousel .carousel-caption .thm-container .box .content {
-    width: 100%;
-    text-align: center;
-  }
-
-  #main-carousel .carousel-caption h1 {
-    font-size: 25px !important;
-  }
-
-  .service-item-page img {
+  .ver_new_1_slider .carousel-caption .thm-container .box.valign-top .content {
+    padding-top: 0;
     width: 100%;
   }
-
-  #main-carousel .carousel-caption .thm-container .box.valign-bottom {
-    vertical-align: top;
-  }
-
-  #main-carousel .carousel-caption .thm-container .box.valign-bottom .content {
-    padding-bottom: 0;
-    padding-top: 132px;
-  }
-
-  #main-carousel.ver_new_2_slider .carousel-inner .carousel-caption .thm-container .box.valign-bottom .content,  #main-carousel.ver_new_3_slider .carousel-inner .carousel-caption .thm-container .box.valign-bottom .content {
-    padding-bottom: 0;
-    padding-top: 160px;
-  }
-
-  #main-carousel .carousel-caption p.pln_he {
-    font-size: 16px;
-  }
-
-  #main-carousel .carousel-caption .buttons {
+  .carousel-caption .buttons, .ver_new_1_slider .carousel-caption .thm-container .box.valign-top .content {
     text-align: center;
-    margin-top: 0px;
   }
-
-  #main-carousel .buttons .thm-button {
-    margin: 0px;
-  }
-
-  #main-carousel .thm-button.inverse {
-    visibility: hidden;
+  .carousel-caption .thm-button.inverse {
     display: none;
   }
 
-  #main-carousel .carousel-caption .thm-container .box.valign-top .content {
-    padding-top: 160px;
-  }
-
-  #main-carousel.ver_new_1_slider .carousel-control {
-    top: 75px;
-  }
 
   /*** 
 =============================================
