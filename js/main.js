@@ -10,7 +10,7 @@ function bootstrapAnimatedLayer() {
         });
     }
 
-    var $myCarousel = $('#main-carousel'),
+    var $myCarousel = $('#to-mg'),
         $firstAnimatingElems = $myCarousel.find('.item:first').find("[data-animation ^= 'animated']");
     $myCarousel.carousel({
         interval: 7000
